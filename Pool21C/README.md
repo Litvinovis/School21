@@ -1,4 +1,4 @@
-# <p align=center> "pool" School 21 </p>
+# <p align=center> "Pool" School 21 </p>
 
- ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpCX9cN5mXT6X-cr09ok5epZZz9qYnZO-7ag&usqp=CAU)
+ ![alt text](https://sun9-17.userapi.com/yKuFaMBIif10IaLFAMWzt0BlVLJD0YZ1nOe7AQ/ma-oGNJwqRc.jpg)
 
