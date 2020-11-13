@@ -1,4 +1,4 @@
-# <p align=center> Libft </p>
+# <p align=center> School 21 </p>
 
 Projects for School 21 (Ecole 42)
 
