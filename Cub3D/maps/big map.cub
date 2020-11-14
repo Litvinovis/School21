@@ -1,4 +1,4 @@
-R 1200 1200
+R 2000 2000
 NO ./texture/wall_3.xpm
 SO ./texture/redbrick.xpm    
 WE ./texture/wall_1.xpm          
