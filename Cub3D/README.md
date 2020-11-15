@@ -7,11 +7,15 @@ This graphic project uses raytracing technology similar to the first Wolfenstein
 
 For use:
 
+```
 $make
+```
 
 then:
 
+```
 $./cub3D ./maps/big\ map.cub
+```
 
 or any another map from /maps
 
