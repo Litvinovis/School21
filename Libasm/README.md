@@ -13,5 +13,7 @@ This project is creation of several standard functions in assembly:
 for use:
 
 
-< $make bonus >
+``` 
+$make bonus
 $make test
+```
