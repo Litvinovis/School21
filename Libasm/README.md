@@ -9,3 +9,9 @@ This project is creation of several standard functions in assembly:
 - read 
 - strdup
 - list_size
+
+for use:
+
+$make bonus
+$make test
+
