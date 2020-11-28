@@ -1,7 +1,7 @@
 # <p align=center> ft_server </p>
 
-The goal of this project is to launch a server based on docker technology
-This server will run multiples services: Wordpress, phpMyAdmin, and a SQL database.
+The goal of this project is to launch a server based on docker technology.
+This server will run multiples services: Wordpress, phpMyAdmin, nginx and a SQL database.
 
 
  ![alt text](https://blog.jetbrains.com/wp-content/uploads/2015/10/phpstorm-large_v-trans.png)
