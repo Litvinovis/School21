@@ -1,8 +1,8 @@
 # <p align=center> Printf </p>
 
-My own realization of standard C printf (stdio.h) function.
+My own realization of standard C printf function (stdio.h).
 
-Function implements `csdiupxXofne%` specificators with `-+ #0`, and considers `width` and `precision` parameters
+Function implements `cspdiuxX%` specificators with `-`, `0`, and considers `width` + `precision` parameters.
 
 For use:
 `make` in the root of the repository to build library `libftprintf.a`, include `ft_printf.h` in program, compile program with this library.
@@ -19,7 +19,7 @@ int main(void)
 }
 ```
 
-compile and launch
+compile and launch:
 
 ```
 $> gcc main.c -L. -lftprintf -o a.out
