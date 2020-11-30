@@ -5,6 +5,7 @@ The project consists of setting up an infrastructure of different services used 
 This server will run multiples services: Wordpress, phpMyAdmin, nginx, mysql, grafana, influxdb (+ telegraf), ftps.
 
 
+
  ![alt text](https://blog.jetbrains.com/wp-content/uploads/2015/10/phpstorm-large_v-trans.png)
 
 for use:
